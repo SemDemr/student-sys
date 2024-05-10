@@ -9,9 +9,9 @@ import java.sql.Statement;
 public class ConnectMSSQL {
 
 	public static String dbUserName = "SisLogin";
-	public static String dbPassword = "Neotech#2022";
+	public static String dbPassword = "N***#2022";
 
-	public static String dbUrl = "jdbc:sqlserver://sis.neotechacademy.com:1433; databaseName=Test";
+	public static String dbUrl = "jdbc:sqlserver://sis.n***.com:1433; databaseName=Test";
 
 	public static void main(String[] args) throws SQLException {
 
