@@ -7,8 +7,8 @@ import java.sql.SQLException;
 
 public class ConnectWithURL {
 
-	public static String dbUrl = "jdbc:sqlserver://sis.neotechacademy.com:1433; "
-			+ "dataBase=Test; user=SisLogin; password=Neotech#2022; ";
+	public static String dbUrl = "jdbc:sqlserver://sis.n****.com:1433; "
+			+ "dataBase=Test; user=SisLogin; password=N***#2022; ";
 
 	public static void main(String[] args) throws SQLException {
 		
